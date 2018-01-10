@@ -1,0 +1,69 @@
+[
+    {
+        "name": "phpkit/microservice",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wenzouquan/phpkit-micro-service.git",
+            "reference": "7115cdb7874da636681f3add97b87edce9572544"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wenzouquan/phpkit-micro-service/zipball/7115cdb7874da636681f3add97b87edce9572544",
+            "reference": "7115cdb7874da636681f3add97b87edce9572544",
+            "shasum": ""
+        },
+        "time": "2018-01-10T07:56:06+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "phpkit\\microservice\\": "./"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "description": "thriftrpc",
+        "homepage": "http://www.phpkit.me/",
+        "keywords": [
+            "thriftRPC"
+        ]
+    },
+    {
+        "name": "phpkit/thriftrpc",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wenzouquan/phpkit-thriftrpc.git",
+            "reference": "1e0d3d7d710a6b2d2e8e76e2719267334e345d69"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wenzouquan/phpkit-thriftrpc/zipball/1e0d3d7d710a6b2d2e8e76e2719267334e345d69",
+            "reference": "1e0d3d7d710a6b2d2e8e76e2719267334e345d69",
+            "shasum": ""
+        },
+        "time": "2017-12-12T02:23:57+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "phpkit\\thriftrpc\\": "./",
+                "Thrift\\": "./Thrift"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "description": "thriftrpc",
+        "homepage": "http://www.phpkit.me/",
+        "keywords": [
+            "thriftRPC"
+        ]
+    }
+]

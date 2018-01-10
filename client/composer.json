@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpkit/microservice": "dev-master",
+        "phpkit/thriftrpc": "dev-master"
+    }
+}
